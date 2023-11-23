@@ -1,0 +1,155 @@
+*{   
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: serif;
+}
+p{
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.818);
+    margin-bottom: 20px;
+}
+
+/* **************************** Header ***************************** */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px 0px 150px;
+}
+.logo{
+    font-size: 1.3rem;
+}
+header nav a{
+    padding: 0 15px 0 15px;
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 0.818);
+}
+.m3rf{
+    color: #000;
+    font-size: 1.3rem;
+    padding: 13px 30px;
+    background-color: yellow;
+}
+
+/* ********* info ********** */
+section{
+    padding: 100px 150px;
+}
+/* **************************** Home ***************************** */
+.home{
+    padding: 5  0px 150px 100px 150px;
+}
+/* ********* info ********** */
+.home .info h1{
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: serif;
+    color: #fff;
+    margin-bottom: 20px;
+}
+/* ********* companies ********** */
+.home .companies{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* ********* examples ********** */
+.example{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.example img {
+    border-radius: 5px;
+}
+.example a {
+    font-size: 2.5rem;
+    margin: 20px 0px;
+    display: block;
+}
+
+/* **************************** Home ***************************** */
+
+h2{
+    color: #fff;
+    font-size: 2.5rem;
+    font-family: serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.co{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #2e3038;
+}
+.interested p {
+    margin-bottom: 40px;
+}
+
+/* **************************** Home ***************************** */
+
+footer{
+    background-color: #2e3038;
+    padding: 30px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer nav a{
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
